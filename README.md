@@ -2,6 +2,8 @@
 This desktop application is a simple yet lightweight to-do list utility.
 
 Minimalistic-ToDo™ is a simple and clean utility to add, clear, and manage tasks in one desktop app.
+<img width="959" height="480" alt="image" src="https://github.com/user-attachments/assets/606c7c47-fee7-4383-acaf-b867e345cbb5" />
+______________________________________________________________________________________________________________________________________________________________________________
 
 Features:
 
