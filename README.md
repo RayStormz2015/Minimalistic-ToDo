@@ -14,7 +14,7 @@ Desktop app:
 You can download the folder from my Github repository:
 https://github.com/RayStormz2015/Minimalistic-ToDo
 
-IMPORTANT: The desktop app does NOT support notifications
+IMPORTANT: The desktop app does NOT support notifications.
 To receive notifications, use the web version.
 
 Web application:
