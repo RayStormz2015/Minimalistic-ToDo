@@ -1,5 +1,6 @@
 # Minimalistic-ToDo™
 New Update:
+
 Minimalistic-ToDo™ is now touch-friendly and has a cleaner interface and UI. But this still doesn't mean it will work on all mobile browsers, like Safari. If the browser doesn't work, install the .exe for iOS Devices.
 
 Minimalistic-ToDo™ is a simple and clean utility to add, clear, and manage tasks in one desktop app.
@@ -35,4 +36,5 @@ IMPORTANT: The web version is not touch-friendly for some browsers
 Notes:
 
 Creating a desktop shortcut for the application is recommended, as not creating one means you will have to download the application from the installer again to run it.
+
 Swipe left from the task to clear it in both the web and desktop apps.
