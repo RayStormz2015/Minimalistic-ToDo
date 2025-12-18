@@ -13,18 +13,12 @@ You can add tasks.
 
 You can clear tasks.
 
-You can create a deadline that sends a notification reminder (only available in the web application).
-
-Works simply and cleanly in both desktop applications and web applications.
+Works well in both desktop and web applications.
 
 Desktop app:
 
 You can download the folder from my Github repository:
 https://github.com/RayStormz2015/Minimalistic-ToDo
-
-IMPORTANT: The desktop app does NOT support notifications.
-
-To receive notifications, use the web version.
 
 Web application:
 
