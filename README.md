@@ -25,8 +25,6 @@ Web application:
 You can go to this site:
 https://raystormz2015.github.io/To-do-List/
 
-IMPORTANT: The web version is not touch-friendly for some browsers
-
 Notes:
 
 Creating a desktop shortcut for the application is recommended, as not creating one means you will have to download the application from the installer again to run it.
