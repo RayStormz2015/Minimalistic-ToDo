@@ -1,7 +1,7 @@
 # Minimalistic-ToDo™
 New Update:
 
-Minimalistic-ToDo™ is now touch-friendly and has a cleaner interface and UI. But this still doesn't mean it will work on all mobile browsers, like Safari.
+Minimalistic-ToDo™ is now touch-friendly and has a cleaner interface and UI. This application now works on all mobiles in the web version. 
 
 Minimalistic-ToDo™ is a simple and clean utility to add, clear, and manage tasks in one desktop app.
 <img width="959" height="478" alt="image" src="https://github.com/user-attachments/assets/8b458785-d433-419a-a4aa-f6826a02d4b8" />
